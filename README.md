@@ -2,7 +2,7 @@
 #### I am a Front-End Enginner
 A self-taught front-end developer looking for the opportunity to intern at any firm in order to contribute to the work environment and deliver great results
 
-Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Line
+Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Line / Flutter
 
 - 🔭 I’m currently working on Ghanzu.netlify.app 
 - 🌱 I’m currently learning Angular  
