@@ -6,7 +6,7 @@ Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Li
 
 - 🔭 I’m currently working on Ghanzu.netlify.app 
 - 🌱 I’m currently learning Angular  
-- 👯 I’m looking to collaborate on Fron-End Projects 
+- 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 How to reach me: Valentinesamuel080@gmail.com 
 - ⚡ Fun fact: I eat code and design for breakfast 
 
