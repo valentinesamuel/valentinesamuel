@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Samuel Valentine
+#### I am a Front-End Enginner
+A self-taught front-end developer looking for the opportunity to intern at any firm in order to contribute to the work environment and deliver great results
 
-<!--
-**valentinesamuel/valentinesamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Line
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Ghanzu.netlify.app 
+- 🌱 I’m currently learning Angular  
+- 👯 I’m looking to collaborate on Fron-End Projects 
+- 📫 How to reach me: Valentinesamuel080@gmail.com 
+- ⚡ Fun fact: I eat code and design for breakfast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/valentinesamuel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-valentine-476797202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/valentine.samuel.9047/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/growing_dev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mval_Architects)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](+2348156210785)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
