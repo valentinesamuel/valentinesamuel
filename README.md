@@ -4,7 +4,7 @@ A self-taught front-end developer looking for the opportunity to intern at any f
 
 Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Line / Flutter
 
-- 🔭 I’m currently working on Ghanzu.netlify.app 
+- 🔭 I’m currently working on Small Angular Projects 
 - 🌱 I’m currently learning Angular  
 - 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 How to reach me: Valentinesamuel080@gmail.com 
