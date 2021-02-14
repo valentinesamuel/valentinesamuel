@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is **Samuel Valentine**
 ####  Front-End Enginner
-I am a self-taught front-end developer looking for the opportunity to intern at any firm in order to contribute to the work environment and deliver great results
+I am a self-taught front-end enginner looking for the opportunity to intern at any firm in order to contribute to the work environment and deliver great results.
 
-Skills: HTML / CSS /  SASS / JavaScript / Angular / Git / UI Design / Command Line / Flutter
+Skills: HTML / CSS /  SASS / JavaScript / Bootstrap / Angular / Git / Github / UI Design / Command Line / Flutter
 
-- 🔭 I’m currently working on Small Angular Projects 
+- 🔭 I’m currently working on Angular Projects 
 - 🌱 I’m currently learning Angular  
 - 👯 I’m looking to collaborate on Front-End Projects 
-- 📫 How to reach me: Valentinesamuel080@gmail.com 
+- 📫 How to reach me: Valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: I eat code and design for breakfast 
 
 
