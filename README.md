@@ -4,7 +4,7 @@ I am a self-taught front-end enginner looking for the opportunity to intern at a
 
 Skills: HTML / CSS /  SASS / JavaScript / Bootstrap / Angular / Git / Github / UI Design / Command Line / Flutter
 
-- 🔭 I’m currently working on Angular Projects 
+- 🔭 I’m currently building a spotify clone with angular
 - 🌱 I’m currently learning Angular  
 - 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 How to reach me: Valentinesamuel2580@gmail.com 
