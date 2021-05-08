@@ -4,8 +4,8 @@ I am a self-taught front-end enginner looking for an opportunity at any firm in 
 
 Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / UI Design / Command Line / Flutter
 
-- 🔭 I’m just finished building a spotify clone with angular
-- 🌱 I’m currently learning Angular  
+- 🔭 I just finished building a spotify clone with angular
+- 🌱 I’m currently learning NgRx  
 - 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 Reach me: Valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: Any fool can use a computer. Many do.
