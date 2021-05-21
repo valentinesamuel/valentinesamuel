@@ -2,7 +2,7 @@
 ####  Front-End Enginner
 I am a self-taught front-end enginner looking for an opportunity at any firm in order to contribute to the work environment and deliver great results.
 
-Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / UI Design / Command Line / Flutter
+Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / Command Line / Flutter
 
 - 🔭 I just finished building a spotify clone with angular
 - 🌱 I’m currently learning NgRx  
