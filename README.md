@@ -5,7 +5,7 @@ I am a self-taught front-end enginner looking for an opportunity at any firm in 
 Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / Command Line / Flutter
 
 - 🔭 Currently, i'm building a netflix-style web app called "FEEMS" with angular
-- 🌱 I’m currently learning NgRx  
+- 🌱 I’m currently learning Python  
 - 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 Reach me: Valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: Any fool can use a computer. Many do.
