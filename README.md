@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Samuel Valentine**
 ####  Front-End Enginner
-I am a self-taught front-end enginner looking for an opportunity at any firm in order to contribute to the work environment and deliver great results.
+I am a self-taught front-end enginner looking for an opportunity to work in any firm in order to contribute to the work environment and deliver great results.
 
 Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / Command Line / Flutter
 
