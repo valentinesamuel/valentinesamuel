@@ -5,7 +5,7 @@ I am a self-taught front-end enginner looking for an opportunity to work in any 
 Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / Command Line / Flutter
 
 
-- 🌱 I’m currently learning Data Structures and Algorithm Using Python  
+- 🌱 I’m currently learning React, Redux, Redux Thunk  
 - 👯 I’m looking to collaborate on Front-End Projects 
 - 📫 Reach me: Valentinesamuel080@gmail.com 
 - ⚡ Fun fact: Any fool can use a computer. Many do.
