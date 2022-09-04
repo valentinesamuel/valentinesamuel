@@ -2,11 +2,11 @@
 ####  Front-End Enginner
 I am a self-taught front-end enginner looking for an opportunity to work in any firm in order to contribute to the work environment and deliver great results.
 
-Skills: HTML / CSS /  SASS / JavaScript / Typescript / Bootstrap / Angular / Git / Github / Command Line / Flutter
+Skills: HTML / CSS /  SASS / JavaScript / Typescript / Python / Bootstrap / Angular / React / Redux-toolkit / UI Design / Git / Github / Linux 
 
 
-- 🌱 I’m currently learning React, Redux, Redux-Toolkit  
-- 👯 I’m looking to collaborate on front-End Projects 
+- 🌱 I’m currently learning NodeJs  
+- 👯 I look forward to collaborating on front-end Projects 
 - 📫 Reach me: valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: Any fool can use a computer.
 
