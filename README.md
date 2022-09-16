@@ -4,7 +4,7 @@
 
 I'm a frontend enginner looking for an opportunity to contribute to the process and deliver great results.
 
-## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Git | Github | Linux | Ubuntu
+## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu
 
 
 - 🌱 I’m currently learning NodeJs  
@@ -27,13 +27,14 @@ I'm a frontend enginner looking for an opportunity to contribute to the process 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt='figma' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt='git' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  alt='github' height='40'>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  alt='node' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt='linux' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  alt='ubuntu' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt='jest' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt='vscode' height='40'>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"  alt='bash' height='40'>]()
 [<img src=""  alt='' height='40'>]()
 [<img src=""  alt='' height='40'>]()
-  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-valentine-476797202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/valentine.samuel.9047/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/growing_dev/) 
