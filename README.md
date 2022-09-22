@@ -4,7 +4,7 @@
 
 I'm a frontend enginner looking for an opportunity to contribute to the process and deliver great results.
 
-## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu
+<!-- ## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu -->
 
 
 - 🌱 I’m currently learning NodeJs  
