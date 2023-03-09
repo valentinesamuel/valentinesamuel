@@ -1,16 +1,16 @@
 #### Hi there 👋, I'm
 # **Valentine Samuel**
-##  Frontend Enginner
+##  Software Enginner
 
-I'm a frontend enginner looking for an opportunity to contribute to the process and deliver great results.
+I'm a software enginner looking for an opportunity to contribute to the process and deliver great results.
 
 <!-- ## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu -->
 
 
-- 🌱 I’m currently learning NodeJs  
+- 🌱 I’m currently learning NextJS  
 - 👯 I look forward to collaborating on front-end Projects 
 - 📫 Reach me: valentinesamuel2580@gmail.com 
-- ⚡ Fun fact: Everybody wants it, how bad do you want it?.
+- ⚡ Fun fact: Progress over perfection.
 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt='html5' height='50'>]()
