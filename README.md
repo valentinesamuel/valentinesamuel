@@ -7,7 +7,7 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 <!-- ## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu -->
 
 
-- 🌱 I’m currently learning NextJS  
+- 🌱 I’m currently learning NestJS  
 - 👯 I look forward to collaborating on front-end Projects 
 - 📫 Reach me: valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: Progress over perfection.
@@ -34,8 +34,8 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt='jest' height='50'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt='vscode' height='50'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"  alt='bash' height='50'>]()
-[<img src=""  alt='' height='50'>]()
-[<img src=""  alt='' height='50'>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt='nextjs' height='50'/>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt='nestjs' height='50'/>]()
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/samuel-valentine-476797202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/valentine.samuel.9047/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/growing_dev/) 
