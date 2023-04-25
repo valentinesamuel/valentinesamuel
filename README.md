@@ -13,6 +13,7 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 - ⚡ Fun fact: Progress over perfection.
 
 
+##  **Technologies**
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt='html5' height='50'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt='css3' height='50'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  alt='scss' height='50'>]()
