@@ -4,11 +4,9 @@
 
 I'm a software enginner looking for an opportunity to contribute to the process and deliver great results.
 
-<!-- ## **Skills**: HTML | CSS |  SASS | JavaScript | Typescript | Python | Bootstrap | Firebase | Angular | React | Redux-toolkit | UI Design | Figma | Git | Github | Linux | Ubuntu -->
-
 
 - 🌱 I’m currently learning NestJS  
-- 👯 I look forward to collaborating on front-end Projects 
+- 👯 I look forward to collaborating on front-end and backend Projects 
 - 📫 Reach me: valentinesamuel2580@gmail.com 
 - ⚡ Fun fact: Progress over perfection.
 
@@ -37,8 +35,11 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"  alt='bash' height='50'>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt='nextjs' height='50'/>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt='nestjs' height='50'/>]()
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/growing_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-val/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@valentinesamuel) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omolasho_)  -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/samuel-valentine-476797202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/valentine.samuel.9047/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/growing_dev/) 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinesamuel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=valentinesamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=valentinesamuel&theme=dark&hide_border=false)<br/>
