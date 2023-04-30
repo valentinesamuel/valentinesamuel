@@ -9,7 +9,7 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 - 🌱 I’m currently learning NestJS
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: valentinesamuel2580@gmail.com
-- ⚡ Fun fact: Progress over perfection.
+- ⚡ Mantra: Progress over perfection.
 <br/><br/><br/>
 # 💻 Tech Stack:
 
