@@ -124,6 +124,7 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/growing_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-val/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@valentinesamuel)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://engineeringval.hashnode.dev/)
 
 
 
@@ -164,7 +165,7 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 
 BLOG
 https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
-https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
+
 
 ![]
 ()
@@ -183,7 +184,7 @@ https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&l
 
 
 <br/><br/>
-
+<!--
 
 ![](https://github-readme-stats.vercel.app/api?username=valentinesamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=valentinesamuel&theme=dark&hide_border=false)<br/> -->
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=valentinesamuel&theme=dark&hide_border=false)<br/> -->
