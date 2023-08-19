@@ -10,7 +10,7 @@ I'm a software enginner looking for an opportunity to contribute to the process 
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: valentinesamuel2580@gmail.com
 - ⚡ Mantra: Progress over perfection.
-- 📚 Interview Prep Notion Template: [Click Here](https://valentinesamuel.notion.site/b80da1020de040cebbdfa1a0dc6e07ee?v=0746427d753e49c7b2d6ac5cb0e3efc2&pvs=4)
+- 📚 Interview Prep Notion Template: [Click Here](https://valentinesamuel.notion.site/DSA-Learning-Dashboard-6d031bfad4bf4dc09fb707ac2f60842e?pvs=4)
 <br/><br/><br/>
 # 💻 Tech Stack:
 
