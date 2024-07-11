@@ -6,7 +6,7 @@
 
 I'm a software enginner looking for an opportunity to contribute to the process and deliver great results.
 
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning about DevOps
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: valentinesamuel2580@gmail.com
 - ⚡ Mantra: Progress over perfection.
