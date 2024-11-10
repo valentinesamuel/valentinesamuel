@@ -7,6 +7,7 @@
 I'm a software enginner looking for an opportunity to contribute to the process and deliver great results.
 
 - 🌱 I’m currently learning about DevOps
+- 👷🏽 I'm currebtly building an NPM package to interact with Hashnode's GraphQL API
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: valentinesamuel2580@gmail.com
 - ⚡ Mantra: Progress over perfection.
