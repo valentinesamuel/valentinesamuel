@@ -4,9 +4,11 @@
 
 ## Software Enginner
 
-I'm a software enginner looking for an opportunity to contribute to the process and deliver great results.
+I'm a software enginner looking for an opportunity to contribute to the process and deliver great results. 
 
-- 🌱 I’m currently bulding MockCraft in GoLang - A comprehensive fake data toolkit with three modes: CLI faker, database seeder, and REST API server.
+- 🌱 I’m currently bulding Zelkora. Zelkora is a hospital management system (HMS) with full EMR/clinical records.
+It is designed for African hospitals (Nigeria-first) with future EU and Asia
+expansion. The name carries a reference to the West African kora instrument.
 - 👷🏽 I just built an NPM package to interact with Hashnode's GraphQL API. Check it out [here](https://www.npmjs.com/package/hashnode-node-sdk)
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: valentinesamuel2580@gmail.com
